@@ -1,5 +1,6 @@
 asgiref==3.7.2
 coverage==7.3.2
+dj-database-url==0.5.0
 Django==3.2.23
 gunicorn==21.2.0
 numpy==1.26.2
